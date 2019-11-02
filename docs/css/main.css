@@ -3635,3 +3635,22 @@ textarea {
   border-radius: 5px;
   background: #9E9E9E;
 }
+
+.float-whatsapp {
+  width: 4rem;
+  background: #46618a;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 4rem;
+  right: 1rem;
+  bottom: 1rem;
+  position: fixed;
+}
+
+.float-whatsapp i {
+  font-size: 2rem;
+  color: #fff;
+}
