@@ -2346,7 +2346,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .primary-btn:hover {
   color: #46618a;
-  background-color: transparent;
+  background-color: #fff;
   border-color: #46618a;
 }
 
